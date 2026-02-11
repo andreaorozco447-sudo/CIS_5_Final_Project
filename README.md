@@ -1,6 +1,8 @@
 # CIS_5_Final_Project
 CIS 5 Final Proejct
 
+Recording: https://github.com/user-attachments/assets/0bddb6b6-a94b-48e8-9eb2-1138cd1dee72
+
 Students! Congratulations for making it this far into the class. This is the last thing that you would need to do for this class before you finsh up here! 
 
 Goal: Create something interesting and explain what it does. 
